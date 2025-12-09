@@ -52,8 +52,8 @@ The **Power BI dashboard** contains:
 - Sales clustering visuals
 - Bookmarks to switch between years and countries
 
-![P1](Dashboard 1.png)
-![P2](Dashboard 2.png)
+![Page1](Dashboard1.png)
+![Page2](Dashboard2.png)
 
 # 4. Key Insights
 
